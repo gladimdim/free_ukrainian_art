@@ -1,4 +1,4 @@
-# free_ukrainian_art
+# free_ukrainian_voxel_art
 Free Voxel (Goxel) Art. Ukrainian Theme. 
 
 [Українська версія тут](README_UK.md)
