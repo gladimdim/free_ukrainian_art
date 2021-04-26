@@ -39,17 +39,26 @@ The resource folder includes following 2d and 3d art:
 ![gorilka](resources/gorilka/gorilka.png)
 ## grains
 ![grains](resources/grains/grains.png)
-# horse
+## horse
 ![horse](resources/horse/horse.png)
-- iron_ore
-- metal_parts
-- planks
-- powder
-- salt
-- silk
-- stone
-- wood
-- wool
+## iron_ore
+![iron_ore](resources/iron_ore/iron_ore.png)
+## metal_parts
+![metal_parts](resources/metal_parts/metal_parts.png)
+## planks
+![planks](resources/planks/planks.png)
+## powder
+![powder](resources/powder/powder.png)
+## salt
+![salt](resources/salt/salt.png)
+## silk
+![silk](resources/silk/silk.png)
+## stone
+![stone](resources/stone/stone.png)
+## wood
+![wood](resources/wood/wood.png)
+## wool
+![wool](resources/wool/wool.png)
 
 
 You may use this art in your games or apps. If you decide to do it - leave a link to this repo and mention authors Dmytro Gladkyi and Konstantin Boytsov. That is all.
