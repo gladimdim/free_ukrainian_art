@@ -7,7 +7,7 @@ This is the voxel art created by Dmytro Gladkyi and Konstantin Boytsov.
 You may use this art in your games or apps. If you decide to do it - leave a link to this repo and mention authors Dmytro Gladkyi and Konstantin Boytsov. That is all.
 
 # How to open gox files
-To open the *.gox files use [Goxel Editor](https://goxel.xyz)
+To open the *.gox files use [Goxel Editor](https://goxel.xyz). It has app for all major platforms: macOS, Windows, iOS, Android.
 
 # Usage examples
 This art is used in three games: 
