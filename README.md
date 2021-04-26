@@ -25,7 +25,7 @@ Contains all art related resources/goods/items that can be traded / produced in 
 
 ## buildings
 
-Contains all art realted to buildings. A lot of buildings contain 3 version of the building: level 1-3. Each level represents more developed/upgraded version of the building. Each building has 2d/3d folders included.
+Contains all art related to buildings. A lot of buildings contain 3 version of the building: level 1-3. Each level represents more developed/upgraded version of the building. Each building has 2d/3d folders included.
 
 ## events
 
