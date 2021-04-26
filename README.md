@@ -64,7 +64,7 @@ The resource folder includes following 2d and 3d art:
 ## cart
 ![cart](resources/cart/cart.png)
 ## coal
-![coal](resources/coal/coal.png)
+![coal](resources/coal/charcoal.png)
 ## coins
 ![coins](resources/coins/coins.png)
 ## firearm
