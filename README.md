@@ -57,12 +57,16 @@ Contains huge map of south Ukraine and some terrain map.
 
 The resource folder includes following 2d and 3d art:
 
+## amber
+![amber](resources/amber/amber.png)
 ## boat
 ![boat](resources/boat/boat.png)
 ## cannon
 ![cannon](resources/cannon/cannon.png)
 ## cart
 ![cart](resources/cart/cart.png)
+## cloth
+![cloth](resources/cloth/cloth.png)
 ## coal
 ![coal](resources/coal/charcoal.png)
 ## coins
@@ -97,6 +101,8 @@ The resource folder includes following 2d and 3d art:
 ![silk](resources/silk/silk.png)
 ## stone
 ![stone](resources/stone/stone.png)
+## tobacco
+![tobacco](resources/tobacco/tobacco.png)
 ## wood
 ![wood](resources/wood/wood.png)
 ## wool
