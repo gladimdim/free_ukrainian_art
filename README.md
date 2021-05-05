@@ -81,6 +81,8 @@ The resource folder includes following 2d and 3d art:
 ![grains](resources/grains/grains.png)
 ## horse
 ![horse](resources/horse/horse.png)
+## honey
+![horse](resources/honey/honey.png)
 ## iron_ore
 ![iron_ore](resources/iron_ore/iron_ore.png)
 ## metal_parts
@@ -99,6 +101,8 @@ The resource folder includes following 2d and 3d art:
 ![wood](resources/wood/wood.png)
 ## wool
 ![wool](resources/wool/wool.png)
+## wax
+![wax](resources/wax/wax.png)
 
 
 
