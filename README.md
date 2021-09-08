@@ -9,11 +9,15 @@ You may use this art in your games or apps. If you decide to do it - leave a lin
 # How to open gox files
 To open the *.gox files use [Goxel Editor](https://goxel.xyz). It has app for all major platforms: macOS, Windows, iOS, Android.
 
+# How to open vox files
+
+To open the *.vox files use [Magica Voxel Editor](https://ephtracy.github.io/).
+
 # Usage examples
 This art is used in three games: 
 - City building game: [Loca Deserta: Sloboda](http://locadeserta.com/citybuilding/index_en.html)
 - Hex puzzle: [Loca Deserta: Hex](http://locadeserta.com/locadesertahex/index_en.html)
-- Trading game: Loca Deserta: Chumaki (WIP).
+- Trading game: [Loca Deserta: Chumaki](https://locadeserta.com/locadesertachumaki/index_en.html).
 
 The art is themed in Ukrainian style and is grouped into different folders.
 
@@ -23,9 +27,141 @@ The art is themed in Ukrainian style and is grouped into different folders.
 
 Contains all art related resources/goods/items that can be traded / produced in your game
 
-## buildings
+## Buildings
 
-Contains all art related to buildings. A lot of buildings contain 3 version of the building: level 1-3. Each level represents more developed/upgraded version of the building. Each building has 2d/3d folders included.
+Contains all art related to buildings. A lot of buildings contain 3 version of the building: level 1-3. Each level represents more developed/upgraded version of the building. Lots of buildings have 2d/3d folders included.
+
+### Amber Mine
+
+![amber_mine](buildings/amber_mine/amber_mine_3.png)
+
+### Bakery
+
+![bakery](buildings/bakery/2d/bakery_3.png)
+
+### Boat Maker
+
+![Boat Maker](buildings/boat_maker/3d/boat_maker_3.png)
+
+### Cannon House
+
+![Cannon House](buildings/cannon_house/3d/cannon_house.png)
+
+### Cart Maker Hut
+
+![Cart Maker Hut](buildings/cart_maker_hut/3d/cart_maker_3.png)
+
+### Char Coal Maker
+
+![Char Coal Maker](buildings/charcoalmaker/3d/charcoal_maker_3.png)
+
+### Church
+
+![Church](buildings/church/3d/church.png)
+
+### Distillery
+
+![Distillery](buildings/distillery/distillery_3.png)
+
+### Field
+
+![Field](buildings/field/2d/field_3.png)
+
+### Forest
+
+![Forest](buildings/forest/3d/forest.png)
+
+### Honey Maker
+
+![Honey Maker](buildings/honey_maker/honey_maker_3.png)
+
+### Iron Mine
+
+![Iron Mine](buildings/iron_mine/2d/iron_mine_3.png)
+
+### Kurin
+
+![Kurin](buildings/kurin/3d/kurin.png)
+
+### Liman
+
+![Liman](buildings/liman/2d/liman_3.png)
+
+### Marketplace
+
+![Marketplace](buildings/marketplace/3d/marketplace.png)
+
+### Mill
+
+![Mill](buildings/mill/3d/mill_3.png)
+
+### Pasture
+
+![Pasture](buildings/pasture/2d/pasture_3.png)
+
+### Powder Hut
+
+![Marketplace](buildings/powder_hut/2d/powder_cellar_3.png)
+
+### Quarry
+
+![Quarry](buildings/quarry/3d/quarry_2.png)
+
+### River
+
+![River](buildings/river/3d/river.png)
+
+
+### Sawmill
+
+![Sawmill](buildings/sawmill/3d/sawmill_3.png)
+
+
+### Shooting Range
+
+![Shooting Range](buildings/shooting_range/3d/shooting_range.png)
+
+
+### Sich
+
+![Sich](buildings/sich/sich.png)
+
+
+### Smeltery
+
+![Smeltery](buildings/smeltery/3d/smeltery_3.png)
+
+### Stables
+
+![Stables](buildings/stables/3d/stables.png)
+
+### Tobacco Maker
+
+![Tobacco Maker](buildings/tobacco_maker/tobacco_maker_3.png)
+
+### Tower
+
+![Tower](buildings/tower/3d/tower.png)
+
+### Trappers House
+
+![Trappers House](buildings/trappers_house/3d/trappers_house.png)
+
+### Wall
+
+![Wall](buildings/wall/3d/wall.png)
+
+### Watch Tower
+
+![Watch Tower](buildings/watch_tower/3d/watch_tower.png)
+
+### Wax Maker
+
+![Wax Maker](buildings/wax_maker/2d/wax_maker_3.png)
+
+### Weavery
+
+![Weavery](buildings/weavery/weavery_3.png)
 
 ## events
 
