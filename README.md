@@ -1,7 +1,6 @@
 # free_ukrainian_voxel_art
-Free Voxel (Goxel) Art. Ukrainian Theme. 
+Free Voxel (Goxel/Magica Voxel) Art. Ukraine related art. 
 
-[Українська версія тут](README_UK.md)
 
 This is the voxel art created by Dmytro Gladkyi and Konstantin Boytsov.
 You may use this art in your games or apps. If you decide to do it - leave a link to this repo and mention authors Dmytro Gladkyi and Konstantin Boytsov. That is all.
@@ -12,6 +11,10 @@ To open the *.gox files use [Goxel Editor](https://goxel.xyz). It has app for al
 # How to open vox files
 
 To open the *.vox files use [Magica Voxel Editor](https://ephtracy.github.io/).
+
+# How to open obj files
+
+Drag and drop obj/png files into Unreal Engine/Unity editor just like any other asset.
 
 # Usage examples
 This art is used in three games: 
