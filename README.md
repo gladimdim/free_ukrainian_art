@@ -44,23 +44,23 @@ Contains all art related to buildings. A lot of buildings contain 3 version of t
 
 ### Boat Maker
 
-![Boat Maker](buildings/boat_maker/3d/boat_maker_3.png)
+![Boat Maker](buildings/boat_maker/3d/boat_screen.png)
 
 ### Cannon House
 
-![Cannon House](buildings/cannon_house/3d/cannon_house.png)
+![Cannon House](buildings/cannon_house/3d/cannon_house_screen.png)
 
 ### Cart Maker Hut
 
-![Cart Maker Hut](buildings/cart_maker_hut/3d/cart_maker_3.png)
+![Cart Maker Hut](buildings/cart_maker_hut/3d/cart_maker_hut_screen.png)
 
-### Char Coal Maker
+### Charcoal Maker
 
-![Char Coal Maker](buildings/charcoalmaker/3d/charcoal_maker_3.png)
+![Char Coal Maker](buildings/charcoalmaker/3d/charcoal_maker_screen.png)
 
 ### Church
 
-![Church](buildings/church/3d/church.png)
+![Church](buildings/church/3d/church_screen.png)
 
 ### Distillery
 
@@ -72,7 +72,7 @@ Contains all art related to buildings. A lot of buildings contain 3 version of t
 
 ### Forest
 
-![Forest](buildings/forest/3d/forest.png)
+![Forest](buildings/forest/3d/forest_screen.png)
 
 ### Honey Maker
 
@@ -84,7 +84,7 @@ Contains all art related to buildings. A lot of buildings contain 3 version of t
 
 ### Kurin
 
-![Kurin](buildings/kurin/3d/kurin.png)
+![Kurin](buildings/kurin/3d/kurin_screen.png)
 
 ### Liman
 
@@ -92,11 +92,11 @@ Contains all art related to buildings. A lot of buildings contain 3 version of t
 
 ### Marketplace
 
-![Marketplace](buildings/marketplace/3d/marketplace.png)
+![Marketplace](buildings/marketplace/3d/marketplace_screen.png)
 
 ### Mill
 
-![Mill](buildings/mill/3d/mill_3.png)
+![Mill](buildings/mill/3d/mill_screen.png)
 
 ### Pasture
 
@@ -108,31 +108,31 @@ Contains all art related to buildings. A lot of buildings contain 3 version of t
 
 ### Quarry
 
-![Quarry](buildings/quarry/3d/quarry_2.png)
+![Quarry](buildings/quarry/3d/quarry_screen.png)
 
 ### River
 
-![River](buildings/river/3d/river.png)
+![River](buildings/river/3d/river_screen.png)
 
 
 ### Sawmill
 
-![Sawmill](buildings/sawmill/3d/sawmill_3.png)
+![Sawmill](buildings/sawmill/3d/sawmill_screen.png)
 
 
 ### Shooting Range
 
-![Shooting Range](buildings/shooting_range/3d/shooting_range.png)
+![Shooting Range](buildings/shooting_range/3d/shooting_range_screen.png)
 
 
 ### Sich
 
-![Sich](buildings/sich/sich.png)
+![Sich](buildings/sich/sich_screen.png)
 
 
 ### Smeltery
 
-![Smeltery](buildings/smeltery/3d/smeltery_3.png)
+![Smeltery](buildings/smeltery/3d/smeltery_screen.png)
 
 ### Stables
 
@@ -144,7 +144,7 @@ Contains all art related to buildings. A lot of buildings contain 3 version of t
 
 ### Tower
 
-![Tower](buildings/tower/3d/tower.png)
+![Tower](buildings/tower/3d/tower_screen.png)
 
 ### Trappers House
 
@@ -152,11 +152,11 @@ Contains all art related to buildings. A lot of buildings contain 3 version of t
 
 ### Wall
 
-![Wall](buildings/wall/3d/wall.png)
+![Wall](buildings/wall/3d/wall_screen.png)
 
 ### Watch Tower
 
-![Watch Tower](buildings/watch_tower/3d/watch_tower.png)
+![Watch Tower](buildings/watch_tower/3d/watch_tower_screen.png)
 
 ### Wax Maker
 
@@ -164,7 +164,7 @@ Contains all art related to buildings. A lot of buildings contain 3 version of t
 
 ### Weavery
 
-![Weavery](buildings/weavery/weavery_3.png)
+![Weavery](buildings/weavery/2d/weavery_3.png)
 
 ## events
 
