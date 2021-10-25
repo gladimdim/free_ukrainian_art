@@ -197,57 +197,61 @@ Contains huge map of south Ukraine and some terrain map.
 The resource folder includes following 2d and 3d art:
 
 ## amber
-![amber](resources/amber/amber.png)
+![amber](resources/amber/amber_screen.png)
 ## boat
-![boat](resources/boat/boat.png)
+![boat](resources/boat/boat_screen.png)
 ## cannon
-![cannon](resources/cannon/cannon.png)
+![cannon](resources/cannon/cannon_screen.png)
 ## cart
-![cart](resources/cart/cart.png)
+![cart](resources/cart/cart_screen.png)
+## wheel
+![wheel](resources/cart/wheel_screen.png)
 ## cloth
-![cloth](resources/cloth/cloth.png)
+![cloth](resources/cloth/cloth_screen.png)
 ## coal
-![coal](resources/coal/charcoal.png)
+![coal](resources/coal/charcoal_screen.png)
 ## coins
-![coins](resources/coins/coins.png)
+![coins](resources/coins/coins_screen.png)
 ## firearm
-![firearm](resources/firearm/firearm.png)
+![firearm](resources/firearm/firearm_screen.png)
 ## fish
-![fish](resources/fish/fish.png)
+![fish](resources/fish/fish_screen.png)
 ## food
-![food](resources/food/food.png)
+![food](resources/food/food_screen.png)
 ## fur
-![fur](resources/fur/fur.png)
+![fur](resources/fur/fur_screen.png)
 ## gorilka
-![gorilka](resources/gorilka/gorilka.png)
+![gorilka](resources/gorilka/gorilka_screen.png)
 ## grains
-![grains](resources/grains/grains.png)
+![grains](resources/grains/grains_screen.png)
 ## horse
-![horse](resources/horse/horse.png)
+![horse](resources/horse/horse_screen.png)
 ## honey
-![horse](resources/honey/honey.png)
+![horse](resources/honey/honey_screen.png)
 ## iron_ore
-![iron_ore](resources/iron_ore/iron_ore.png)
+![iron_ore](resources/iron_ore/iron_ore_screen.png)
+## meat
+![iron_ore](resources/meat/meat_screen.png)
 ## metal_parts
-![metal_parts](resources/metal_parts/metal_parts.png)
+![metal_parts](resources/metal_parts/metal_parts_screen.png)
 ## planks
-![planks](resources/planks/planks.png)
+![planks](resources/planks/planks_screen.png)
 ## powder
-![powder](resources/powder/powder.png)
+![powder](resources/powder/powder_screen.png)
 ## salt
-![salt](resources/salt/salt.png)
+![salt](resources/salt/salt_screen.png)
 ## silk
-![silk](resources/silk/silk.png)
+![silk](resources/silk/silk_screen.png)
 ## stone
-![stone](resources/stone/stone.png)
+![stone](resources/stone/stone_screen.png)
 ## tobacco
-![tobacco](resources/tobacco/tobacco.png)
+![tobacco](resources/tobacco/tobacco_screen.png)
 ## wood
-![wood](resources/wood/wood.png)
+![wood](resources/wood/wood_screen.png)
 ## wool
-![wool](resources/wool/wool.png)
+![wool](resources/wool/wool_screen.png)
 ## wax
-![wax](resources/wax/wax.png)
+![wax](resources/wax/wax_screen.png)
 
 
 
