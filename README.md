@@ -12,7 +12,7 @@ To open the *.gox files use [Goxel Editor](https://goxel.xyz). It has app for al
 
 To open the *.vox files use [Magica Voxel Editor](https://ephtracy.github.io/).
 
-# How to open obj files
+# Usage examples
 
 Drag and drop obj/png files into Unreal Engine/Unity editor just like any other asset.
 
