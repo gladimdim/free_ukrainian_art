@@ -2,8 +2,8 @@
 Free Voxel (Goxel/Magica Voxel) Art. Ukraine related art. 
 
 
-This is the voxel art created by Dmytro Gladkyi and Konstantin Boytsov.
-You may use this art in your games or apps. If you decide to do it - leave a link to this repo and mention authors Dmytro Gladkyi and Konstantin Boytsov. That is all.
+This is the **voxel & lowpoly** art created by Dmytro Gladkyi, Konstantin Boytsov and Svitlana Gladka.
+You may use this art in your games or apps. If you decide to do it - leave a link to this repo and mention authors. That is all.
 
 # How to open gox files
 To open the *.gox files use [Goxel Editor](https://goxel.xyz). It has app for all major platforms: macOS, Windows, iOS, Android.
@@ -12,19 +12,32 @@ To open the *.gox files use [Goxel Editor](https://goxel.xyz). It has app for al
 
 To open the *.vox files use [Magica Voxel Editor](https://ephtracy.github.io/).
 
-# Usage examples
+# How to open fbx files
 
-Drag and drop obj/png files into Unreal Engine/Unity editor just like any other asset.
+Use Blender editor: [Blender](http://blender.org)
 
-# Usage examples
+
+# Voxel Art Usage Examples
 This art is used in three games: 
 - City building game: [Loca Deserta: Sloboda](http://locadeserta.com/citybuilding/index_en.html)
 - Hex puzzle: [Loca Deserta: Hex](http://locadeserta.com/locadesertahex/index_en.html)
 - Trading game: [Loca Deserta: Chumaki](https://locadeserta.com/locadesertachumaki/index_en.html).
 
-The art is themed in Ukrainian style and is grouped into different folders.
+# Lowpoly usage examples from a real game
+
+Everything you see on these screenshots comes from this repo. All art is for [Loca Deserta: Sloboda 2](https://locadeserta.com).
+
+![camp](renders/sloboda_2_examples/camp_us.png)
+![smith](renders/sloboda_2_examples/smith_us.png)
+![stats](renders/sloboda_2_examples/stats_us.png)
+![chain](renders/sloboda_2_examples/chain_us.png)
+![mill](renders/sloboda_2_examples/mill_us.png)
+![sea](renders/sloboda_2_examples/sea_us.png)
+![grave](renders/sloboda_2_examples/grave_us.png)
 
 # Folders
+
+The art is themed in Ukrainian style and is grouped into different folders.
 
 ## resources
 
